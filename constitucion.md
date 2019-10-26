@@ -1,451 +1,392 @@
-## Sección primera. De la Nación y su culto
+# PREÁMBULO
 
-Artículo 1.- La Nación Argentina es para siempre libre e independiente de toda dominación extranjera.
+Nos los representantes del pueblo de la Confederación Argentina, reunidos en Congreso General Constituyente por voluntad y elección de las provincias que la componen, en cumplimiento de pactos preexistentes, con el objeto de constituir la unión nacional, afianzar la justicia, consolidar la paz interior, proveer a la defensa común, promover el bienestar general, y asegurar los beneficios de la libertad, para nosotros, para nuestra posteridad, y para todos los hombres del mundo que quieran habitar en el suelo argentino: invocando la protección de Dios, fuente de toda razón y justicia: ordenamos, decretamos y establecemos esta Constitución para la Confederación Argentina.
 
-Artículo 2.- No será jamás el patrimonio de una persona o de una familia.
+# PRIMERA PARTE
 
-Artículo 3.- Su religión es la Católica, Apostólica Romana, a la que prestará siempre la más eficaz y decidida protección, y sus habitantes el mayor respeto, sean cuales fueren sus opiniones religiosas.
+## Capítulo Único. Declaraciones, Derechos y Garantías===
 
-## Sección II. De la ciudadanía
+Artículo 1.- La Nación Argentina adopta para su gobierno la forma representativa republicana federal, según la establece la presente Constitución.
 
-Artículo 4.- Son ciudadanos de la Nación Argentina: primero, todos los hombres libres, nacidos en su territorio, y los hijos de éstos, donde quieran que nazcan; segundo, los extranjeros que hayan combatido o combatieren en los ejércitos de mar y tierra de la República; tercero, los extranjeros establecidos en el país desde antes del año 16, en que declaró solemnemente su independencia, que se inscriban en el registro cívico; cuarto, los demás extranjeros establecidos o que se establecieren después de aquella época que obtengan carta de ciudadanía.
+Artículo 2.- El Gobierno federal sostiene el culto católico apostólico romano.
 
-Artículo 5.- Los derechos de ciudadanía se pierden: primero, por la aceptación de empleos, distinciones o títulos de otra nación sin la autorización del Congreso; segundo, por sentencia que imponga pena infamante, mientras no se obtenga rehabilitación conforme a la ley.
+Artículo 3.- Las autoridades que ejercen el Gobierno federal residen en la Ciudad de Buenos Aires, que se declara Capital de la Confederación por una ley especial.
 
-Artículo 6.- Se suspenden: primero, por no haber cumplido veinte años de edad, no siendo casado; segundo, por no saber leer ni escribir (esta condición no tendrá efecto hasta quince años de la fecha de la aceptación de esta Constitución); tercero, por la naturalización en otro país; cuarto, por el estado de deudor fallecido declarado tal; quinto, por el de deudor del tesoro público que, legalmente ejecutado al pago, no cubre la deuda; sexto, por el de demencia; séptimo, por el de criado a sueldo, peón jornalero, simple soldado de línea, notoriamente vago o legalmente procesado en causa criminal en que pueda resultar pena corporal o infamante.
+Artículo 4.- El Gobierno federal provee a los gastos de la Nación con los fondos del Tesoro nacional, formado del producto de derechos de importación y exportación de las Aduanas; del de la venta o locación de tierras de propiedad nacional, de la renta de correos, de las demás contribuciones que equitativa y proporcionalmente a la población imponga el Congreso general, y de los empréstitos y operaciones de crédito que decrete el mismo Congreso para urgencia de la Nación, o para empresas de utilidad nacional.
 
-## Sección III. De la forma de Gobierno
+Artículo 5.- Cada provincia confederada dictará para sí una Constitución bajo el sistema representativo republicano, de acuerdo con los principios, declaraciones y garantías de la Constitución Nacional; y que asegure su administración de justicia, su régimen municipal, y la educación primaria gratuita. Las constituciones provinciales serán revisadas por el Congreso antes de su promulgación. Bajo de estas condiciones el Gobierno federal garante a cada provincia el goce y ejercicio de sus instituciones.
 
-Artículo 7.- La Nación Argentina adopta para su gobierno la forma representativa republicana, consolidada en unidad de régimen.
+Artículo 6.- El Gobierno federal interviene con requisición de las Legislaturas o gobernadores provinciales, o sin ella, en el territorio de cualquiera de las provincias, al solo efecto de restablecer el orden público perturbado por la sedición, o de atender a la seguridad nacional amenazada por un ataque o peligro exterior.
 
-Artículo 8.- Delega al efecto el ejercicio de su soberanía en los tres altos Poderes, Legislativo, Ejecutivo y Judicial, bajo las restricciones expresadas en esta Constitución.
+Artículo 7.- Los actos públicos y procedimientos judiciales de una provincia gozan de entera fe en las demás; y el Congreso puede por leyes generales determinar cuál será la forma probatoria de estos actos y procedimientos, y los efectos legales que producirán.
 
-## Sección IV. Del Poder Legislativo
+Artículo 8.- Los ciudadanos de cada provincia gozan de todos los derechos, privilegios e inmunidades inherentes al título de ciudadano en las demás. La extradición de los criminales es de obligación recíproca entre todas las provincias confederadas.
 
-### Capítulo primero. De la Cámara de Representantes
+Artículo 9.- En todo el territorio de la Confederación no habrá más aduanas que las nacionales, en las cuales regirán las tarifas que sancione el Congreso.
 
-Artículo 9.- El Poder Legislativo se expedirá por un Congreso compuesto de dos Cámaras, una de representantes y otra de senadores.
+Artículo 10.- En el interior de la República es libre de derechos la circulación de los efectos de producción o fabricación nacional, así como la de los géneros y mercancías de todas clases, despachadas en las aduanas exteriores.
 
-Artículo 10.- La Cámara de Representantes se compondrá de diputados elegidos por nombramiento directo de los pueblos y a simple pluralidad de sufragios, en la proporción de uno por quince mil habitantes, o de una fracción que iguale al número de ocho mil.
+Artículo 11.- Los artículos de producción o fabricación nacional o extranjera, así como los ganados de toda especie, que pasen por territorio de una provincia a otra, serán libres de los derechos llamados de tránsito, siéndolo también los carruajes, buques o bestias en que se transporten; y ningún otro derecho podrá imponérseles en adelante, cualquiera que sea su denominación, por el hecho de transitar el territorio.
 
-Artículo 11.- Los diputados para la primera legislatura se nombrarán en la proporción siguiente: por la capital, cinco; por el territorio desmembrado de la capital, cuatro; por la provincia de Córdoba, seis; por la de Catamarca, tres; por la de Corrientes, tres; por la de Entre Ríos, dos; por la de Montevideo, cuatro; por la de Mendoza, dos; por la de Misiones, uno; por la de La Rioja, dos; por la de Salta y Jujuy, tres; por la de Santiago del Estero, cuatro; por la de San Juan, dos; por la de San Luis, dos; por la de Santa Fe, uno; por la de Tucumán, tres, y por la de Tarija, dos.
+Artículo 12.- Los buques destinados de una provincia a otra, no serán obligados a entrar, anclar y pagar derechos por causa de tránsito.
 
-Artículo 12.- Para la segunda legislatura deberá realizarse el censo general y arreglarse a él el número de diputados; pero ese censo sólo podrá renovarse cada ocho años.
+Artículo 13.- Podrán admitirse nuevas provincias en la Confederación; pero no podrá erigirse una provincia en el territorio de otra u otras, ni de varias formarse una sola, sin el consentimiento de la Legislatura de las provincias interesadas, y del Congreso.
 
-Artículo 13.- Podrá votar en la elección de representantes todo ciudadano expedito en el ejercicio de sus derechos, con arreglo a los artículos 4.º, 5.º y 6.º
+Artículo 14.- Todos los habitantes de la Confederación gozan de los siguientes derechos conforme a las leyes que reglamenten su ejercicio; a saber: de trabajar y ejercer toda industria lícita; de navegar y comerciar; de peticionar a las autoridades; de entrar, permanecer, transitar y salir del territorio argentino; de publicar sus ideas por la prensa sin censura previa; de usar y disponer de su propiedad; de asociarse con fines útiles; de profesar libremente su culto; de enseñar y aprender.
 
-Artículo 14.- Por esta vez reglará cada junta de provincia los medios de hacer efectiva la elección directa de los representantes, en conformidad a los artículos anteriormente citados; para lo sucesivo el Congreso expedirá una ley general.
+Artículo 15.- En la Confederación Argentina no hay esclavos: los pocos que hoy existen quedan libres desde la jura de esta Constitución; y una ley especial reglará las indemnizaciones a que dé lugar esta declaración. Todo contrato de compra y venta de personas, es un crimen de que serán responsables los que lo celebrasen, y el escribano o funcionario que lo autorice.
 
-Artículo 15.- Ninguno podrá ser representante sin que tenga las calidades de siete años de ciudadano antes de su nombramiento, veinticinco años cumplidos, un capital de cuatro mil pesos o, en su defecto, arte, profesión u oficio útil y que no esté dependiente del Poder Ejecutivo por servicio a sueldo. (Esta condición, por el término de diez años, sólo tendrá efecto respecto de los empleados ad nutum amovibles.)
+Artículo 16.- La Confederación Argentina no admite prerrogativas de sangre, ni de nacimiento: no hay en ella fueros personales ni títulos de nobleza. Todos sus habitantes son iguales ante la ley, y admisibles en los empleos sin otra consideración que la idoneidad. La igualdad es la base del impuesto y de las cargas públicas.
 
-Artículo 16.- Los diputados durarán en su representación por cuatro años, pero la sala se renovará por mitad cada bienio.
+Artículo 17.- La propiedad es inviolable, y ningún habitante de la Confederación puede ser privado de ella, sino en virtud de sentencia fundada en ley. La expropiación por causa de utilidad pública, debe ser calificada por ley y previamente indemnizada. Sólo el Congreso impone las contribuciones que se expresan en el Artículo 4. Ningún servicio personal es exigible, sino en virtud de ley o de sentencia fundada en ley. Todo autor o inventor es propietario exclusivo de su obra, invento o descubrimiento, por el término que le acuerde la ley. La confiscación de bienes queda borrada para siempre del código penal argentino. Ningún cuerpo armado puede hacer requisiciones, ni exigir auxilios de ninguna especie.
 
-Artículo 17.- Los que fueren nombrados para la primera legislatura, luego que se reúnan, sortearán los que deban salir en el primer bienio.
+Artículo 18.- Ningún habitante de la Confederación puede ser penado sin juicio previo fundado en ley anterior al hecho del proceso, ni juzgado por comisiones especiales, o sacado de los jueces designados por la ley antes del hecho de la causa. Nadie puede ser obligado a declarar contra sí mismo; ni arrestado sino en virtud de orden escrita de autoridad competente. Es inviolable la defensa en juicio de la persona y de los derechos. El domicilio es inviolable, como también la correspondencia epistolar y los papeles privados; y una ley determinará en qué casos y con qué justificativos podrá procederse a su allanamiento y ocupación. Quedan abolidos para siempre la pena de muerte por causas políticas, toda especie de tormento, los azotes y las ejecuciones a lanza o cuchillo. Las cárceles de la Confederación serán sanas y limpias, para seguridad y no para castigo de los reos detenidos en ellas, y toda medida que a pretexto de precaución conduzca a mortificarlos más allá de lo que aquélla exija, hará responsable al juez que la autorice.
 
-Artículo 18.- La Cámara de Representantes tiene exclusivamente la iniciativa en la imposición de contribuciones, quedando al Senado la facultad de admitirlas, rehusarlas u objetarle reparos.
+Artículo 19.- Las acciones privadas de los hombres que de ningún modo ofendan al orden y a la moral pública, ni perjudiquen a un tercero, están sólo reservadas a Dios, y exentas de la autoridad de los magistrados. Ningún habitante de la Confederación será obligado a hacer lo que no manda la ley, ni privado de lo que ella no prohíbe.
 
-Artículo 19.- Ella tiene igualmente el derecho exclusivo de acusar ante el Senado al Presidente de la República y sus ministros, a los miembros de ambas Cámaras y a los de la Alta Corte de Justicia por delitos de traición, concusión, malversación de los fondos públicos, violación de la Constitución, particularmente con respecto a los derechos primarios de los ciudadanos, u otros crímenes que merezcan pena infamante o de muerte.
+Artículo 20.- Los extranjeros gozan en el territorio de la Confederación de todos los derechos civiles del ciudadano; pueden ejercer su industria, comercio y profesión; poseer bienes raíces, comprarlos y enajenarlos; navegar los ríos y costas; ejercer libremente su culto; testar y casarse conforme a las leyes. No están obligados a admitir la ciudadanía, ni a pagar contribuciones forzosas extraordinarias. Obtienen nacionalización residiendo dos años continuos en la Confederación; pero la autoridad puede acortar este término a favor del que lo solicite, alegando y probando servicios a la República.
 
-Artículo 20.- Los representantes, en el acto de su incorporación, prestarán juramento de desempeñar debidamente el cargo y de obrar en todo en conformidad a lo que prescribe esta Constitución.
+Artículo 21.- Todo ciudadano argentino está obligado a armarse en defensa de la Patria y de esta Constitución, conforme a las leyes que al efecto dicte el Congreso y a los decretos del Ejecutivo nacional. Los ciudadanos por naturalización son libres de prestar o no este servicio por el término de diez años contados desde el día en que obtengan su carta de ciudadanía.
 
-Artículo 21.- Ninguno después de incorporado podrá recibir empleo del Poder Ejecutivo sin el consentimiento de la Cámara y sin que quede vacante su representación en el acto de admitirlo, salvo los empleos de escala.
+Artículo 22.- El pueblo no delibera ni gobierna, sino por medio de sus representantes y autoridades creadas por esta Constitución. Toda fuerza armada o reunión de personas que se atribuya los derechos del pueblo y peticione a nombre de éste, comete delito de sedición.
 
-Artículo 22.- Serán compensados por sus servicios con una dotación que señalará la ley.
+Artículo 23.- En caso de conmoción interior o de ataque exterior que pongan en peligro el ejercicio de esta Constitución y de las autoridades creadas por ella, se declarará en estado de sitio la provincia o territorio en donde exista la perturbación del orden, quedando suspensas allí las garantías constitucionales. Pero durante esta suspensión no podrá el Presidente de la República condenar por sí ni aplicar penas. Su poder se limitará en tal caso respecto de las personas, a arrestarlas o trasladarlas de un punto a otro de la Confederación, si ellas no prefiriesen salir fuera del territorio argentino.
 
-### Capítulo II. Del Senado
+Artículo 24.- El Congreso promoverá la reforma de la actual legislación en todos sus ramos y el establecimiento del juicio por jurados.
 
-Artículo 23.- Formarán la Cámara del Senado los senadores nombrados por la capital y provincias en el número y forma siguiente: Cada una formará por votación directa del pueblo, de conformidad con lo establecido en los Artículos 13 y 14, una Junta de once individuos que hayan de ejercer la función de electores y que reúnan las mismas calidades exigidas para representantes en el Artículo 15. Los electores, reunidos en la capital de la provincia, al menos en las dos terceras partes, y elegidos de entre ellos mismos presidente y secretario, votarán para senadores en un solo acto por balotas firmadas, por dos individuos de los que al menos uno no sea ni natural ni vecino de aquella provincia. Concluida la votación y firmada el acta por todos los vocales se remitirá, cerrada y sellada, por conducto del Poder Ejecutivo, al presidente del Senado (la primera vez al del Congreso). El presidente abrirá los pliegos ante el Senado (en la primera vez ante el Congreso) y hará leer las actas de las Juntas Electorales, que pasarán luego a una Comisión para que abra dictamen, tanto sobre la validez de las formas como sobre el número de sufragios que reúnan los candidatos. Serán proclamados senadores por deliberación del Senado (o del Congreso la primera vez), reunido al menos en sus dos terceras partes, los que, guardadas las formas, hayan obtenido en las respectivas Juntas Electorales una mayoría absoluta de sufragios. Si aquéllas no se hubieran guardado se repetirá la elección por las mismas Juntas Electorales; y si no hubiera resultado una mayoría absoluta, el Senado (en su caso el Congreso) formará una terna de los que hayan obtenido mayor número de votos y elegirá de entre ellos por mayoría absoluta de votos al que crea más conveniente. Si no resultase en esta votación mayoría absoluta, se reducirá entonces a los dos individuos que hayan obtenido en ella más sufragios, decidiendo el voto del presidente, el que debe ser excluido en caso de haber habido empate para que los candidatos queden reducidos a dos. En este caso, fijada de nuevo la elección entre los dos individuos que resulten, se procederá a nueva votación y será proclamado senador el que reúna mayoría absoluta de sufragios, volviendo a decidir el presidente en el caso de nuevo empate. Si alguno de los senadores hubiese obtenido mayoría absoluta en la Junta Electoral, el procedimiento del Senado (o en su caso del Congreso), para concluir la elección de ambos senadores, se hará por actos separados y bajo las mismas formas para cada uno.
+Artículo 25.- El Gobierno federal fomentará la inmigración europea; y no podrá restringir, limitar ni gravar con impuesto alguno la entrada en el territorio argentino de los extranjeros que traigan por objeto labrar la tierra, mejorar las industrias, e introducir y enseñar las ciencias y las artes.
 
-Artículo 24.- Ninguno será nombrado senador que no tenga la edad de treinta y seis años cumplidos, nueve de ciudadano, un capital de diez mil pesos, o una renta equivalente, o profesión científica capaz de producirla.
+Artículo 26.- La navegación de los ríos interiores de la Confederación es libre para todas las banderas, con sujeción únicamente a los reglamentos que dicte la autoridad nacional.
 
-Artículo 25.- Los senadores, en caso de su incorporación, prestarán el juramento prescripto en el Artículo 20.
+Artículo 27.- El Gobierno federal está obligado a afianzar sus relaciones de paz y comercio con las potencias extranjeras por medio de tratados que estén en conformidad con los principios de derecho público establecidos en esta Constitución.
 
-Artículo 26.- Durarán en el cargo por el tiempo de nueve años, renovándose por terceras partes cada trienio, y se decidirá por la suerte, luego que todos se reúnan, quiénes deban salir el primero y segundo trienio.
+Artículo 28.- Los principios, garantías y derechos reconocidos en los anteriores artículos, no podrán ser alterados por las leyes que reglamenten su ejercicio.
 
-Artículo 27.- Al Senado corresponde juzgar en juicio público a los acusados por la Sala de Representantes.
+Artículo 29.- El Congreso no puede conceder al Ejecutivo nacional, ni las Legislaturas provinciales a los gobernadores de provincia, facultades extraordinarias, ni la suma del poder público, ni otorgarles sumisiones o supremacías, por las que la vida, el honor o las fortunas de los argentinos queden a merced de gobiernos o persona alguna. Actos de esta naturaleza llevan Consigo una nulidad insanable, y sujetarán a los que los formulen, consientan o firmen, a la responsabilidad y pena de los infames traidores a la Patria.
 
-Artículo 28.- La concurrencia de las dos terceras partes de sufragios hará sentencia contra el acusado únicamente al efecto de separarlo del empleo.
+Artículo 30.- La Constitución puede reformarse en el todo o en cualquiera de sus partes, pasados diez años desde el día en que la juren los Pueblos. La necesidad de reforma debe ser declarada por el Congreso con el voto de dos terceras partes, al menos, de sus miembros; pero no se efectuará sino por una Convención convocada al efecto.
 
-Artículo 29.- La parte convencida y juzgada quedará, no obstante, sujeta a acusación, juicio y castigo conforme a la ley.
+Artículo 31.- Esta Constitución, las leyes de la Confederación que en su consecuencia se dicten por el Congreso, y los tratados con las potencias extranjeras, son la ley suprema de la Nación; y las autoridades de cada provincia están obligadas a conformarse a ella, no obstante cualquiera disposición en contrario que contengan las leyes o constituciones provinciales.
 
-Artículo 30.- Los senadores serán compensados por sus servicios con la dotación que les señalará la ley.
+# PARTE SEGUNDA. AUTORIDADES DE LA CONFEDERACIÓN
 
-### Capítulo III. De las atribuciones comunes a ambas Cámaras
+## Título primero. Gobierno Federal
 
-Artículo 31.- Ambas Cámaras se reunirán en la capital y tendrán sus sesiones diarias en los meses de mayo, junio, julio, agosto y septiembre, debiendo permanecer en ella sus miembros en los meses restantes del año.
+### Sección primera. Del Poder Legislativo
 
-Artículo 32.- Cada Sala será privativamente el juez para calificar la elección de sus miembros.
+Artículo 32.- Un Congreso compuesto de dos Cámaras, una de Diputados de la Nación, y otra de Senadores de las provincias y de la Capital, será investido del Poder Legislativo de la Confederación.
 
-Artículo 33.- Nombrará su presidente, vicepresidente y oficiales; señalará el tiempo de la duración de unos y otros, y prescribirá el orden para los debates y para facilitar el despacho de sus deliberaciones.
+#### Capítulo I. De la Cámara de Diputados
 
-Artículo 34.- Ninguna de las Salas comenzará sus funciones mientras que no hayan llegado al lugar de las sesiones y se reúnan en cada una de ellas dos terceras partes de sus miembros; pero un número menor podrá compeler a los que no hayan concurrido a verificarlo, en los términos y bajo los apremios que cada Sala proveerá.
+Artículo 33.- La Cámara de Diputados se compondrá de representantes elegidos directamente por el pueblo de las provincias y de la Capital, que se consideran a este fin como distritos electorales de un solo Estado, y a simple pluralidad de sufragios en razón de uno por cada veinte mil habitantes, o de una fracción que no baje del número de diez mil.
 
-Artículo 35.- Los senadores y representantes jamás serán responsables por sus opiniones, discursos o debates.
+Artículo 34.- Los diputados para la primera legislatura se nombrarán en la proporción siguiente: por la Capital seis (6); por la provincia de Buenos Aires seis (6); por la de Córdoba seis (6); por la de Catamarca tres (3); por la de Corrientes cuatro (4); por la de Entre Ríos dos (2); por la de Jujuy dos (2); por la de Mendoza tres (3); por la de La Rioja dos (2); por la de Salta tres (3); por la de Santiago cuatro (4); por la de San Juan dos (2), por la de Santa Fe dos, (2); por la de San Luis dos (2); y por la de Tucumán tres (3).
 
-Artículo 36.- Tampoco serán arrestados por ninguna otra autoridad durante su asistencia a la legislatura y mientras vayan y vuelvan de ella, excepto el caso de ser sorprendidos in fraganti en la ejecución de algún crimen que merezca pena de muerte, infamia u otra aflictiva, de lo que se dará cuenta a la Sala respectiva con la información sumaria del hecho.
+Artículo 35.- Para la segunda legislatura deberá realizarse el censo general, y arreglarse a él el número de diputados; pero este censo sólo podrá renovarse cada diez años.
 
-Artículo 37.- Cuando se forme querella por escrito ante las justicias ordinarias contra cualquier senador o representante, por delito que no sea de los expresados en el Artículo 19, examinado el mérito del sumario en juicio público podrá cada Sala, con dos tercios de votos, suspender en sus funciones al acusado y ponerlo a disposición del tribunal competente para su juzgamiento.
+Artículo 36.- Para ser diputado se requiere haber cumplido la edad de veinticinco años y tener cuatro años de ciudadanía en ejercicio.
 
-Artículo 38.- Puede igualmente cada Sala corregir a cualquiera de sus miembros, con igual número de votos, por desorden de conducta en el ejercicio de sus funciones o removerlos por inhabilidad física o moral, sobreviniente a su incorporación; pero bastará la mayoría de uno sobre la mitad de los presentes para decidir en las renuncias que voluntariamente hicieren de sus cargos.
+Artículo 37.- Por esta vez las legislaturas de las provincias reglarán los medios de hacer efectiva la elección directa de los diputados de la Nación: para lo sucesivo el Congreso expedirá una ley general.
 
-Artículo 39.- Cada una de las Cámaras puede hacer venir a sus Salas a los ministros del Poder Ejecutivo para recibir los informes que estime convenientes.
+Artículo 38.- Los diputados durarán en su representación por cuatro años, y son reelegibles; pero la Sala se renovará por mitad cada bienio; a cuyo efecto los nombrados para la primera legislatura, luego que se reúnan, sortearán los que deban salir en el primer período.
 
-### Capítulo IV. De las atribuciones del Congreso
+Artículo 39.- En caso de vacante, el Gobierno de provincia, o de la Capital, hace proceder a la elección legal de un nuevo miembro.
 
-Artículo 40.- Al Congreso corresponde declarar la guerra, oídos los motivos que exponga el Poder Ejecutivo.
+Artículo 40.- A la Cámara de Diputados corresponde exclusivamente la iniciativa de las leyes sobre contribuciones y reclutamiento de tropas.
 
-Artículo 41.- Recomendar al mismo, cuando lo estime conveniente, la negociación de la paz.
+Artículo 41.- Sólo ella ejerce el derecho de acusar ante el Senado al Presidente y Vicepresidente de la Confederación y a sus ministros, a los miembros de ambas cámaras, a los de la Corte suprema de justicia, y a los gobernadores de provincia, por delitos de traición, concusión, malversación de fondos públicos, violación de la Constitución, u otros que merezcan pena infamante o de muerte; después de haber conocido de ellos, a petición de parte, o de alguno de sus miembros, y declarada haber lugar a la formación de causa por mayoría de dos terceras partes de sus miembros presentes.
 
-Artículo 42.- Fijar la fuerza de línea de mar y tierra en tiempo de paz y guerra.
+#### Capítulo II. Del Senado
 
-Artículo 43.- Mandar construir o equipar las escuadras nacionales.
+Artículo 42.- El Senado se compondrá de dos senadores de cada provincia, elegidos por sus legislaturas a pluralidad de sufragios; y dos de la Capital elegidos en la forma prescripta para la elección, del Presidente de la Confederación. Cada senador tendrá un voto.
 
-Artículo 44.- Fijar cada año los gastos generales con presencia de los presupuestos presentados por el Gobierno.
+Artículo 43.- Son requisitos para ser el elegido senador: tener la edad de treinta años, haber sido seis años ciudadano de la Confederación, y disfrutar de una renta anual de dos mil pesos fuertes, o de una entrada equivalente.
 
-Artículo 45.- Recibir anualmente la cuenta de la inversión de los fondos públicos, examinarla y aprobarla.
+Artículo 44.- Los senadores duran nueve años en el ejercicio de su mandato, y son reelegibles indefinidamente; pero el Senado se renovará por terceras partes cada tres años, decidiéndose por la suerte, luego que todos se reúnan, quiénes deben salir en el primero y segundo trienio.
 
-Artículo 46.- Establecer derechos de importación y exportación y por un tiempo, que no pase de dos años, imponer, para atender a las urgencias del Estado, contribuciones proporcionalmente iguales en todo el territorio.
+Artículo 45.- El Vicepresidente de la Confederación será Presidente del Senado; pero no tendrá voto sino en el caso que haya empate en la votación.
 
-Artículo 47.- Ordenar los empréstitos que hayan de negociarse sobre los fondos del Estado.
+Artículo 46.- El Senado nombrará un Presidente provisorio que lo presida en caso de ausencia del Vicepresidente, o cuando éste ejerza las funciones de Presidente de la Confederación.
 
-Artículo 48.- Fijar la ley, valor, peso y tipo de la moneda.
+Artículo 47.- Al Senado corresponde juzgar en juicio público a los acusados por la Cámara de Diputados, debiendo sus miembros prestar juramento para este acto. Cuando el acusado sea el Presidente de la Confederación, el Senado será presidido por el presidente de la Corte suprema. Ninguno será declarado culpable, sino a mayoría de los dos tercios de los miembros presentes.
 
-Artículo 49.- Establecer tribunales inferiores a la alta corte de justicia y reglar las formas de los juicios.
+Artículo 48.- Su fallo no tendrá más efecto que destituir al acusado, y aun declararle incapaz de ocupar ningún empleo de honor, de confianza o a sueldo en la Confederación. Pero la parte condenada quedará, no obstante, sujeta a acusación, juicio y castigo conforme a las leyes ante los tribunales ordinarios.
 
-Artículo 50.- Acordar amnistías cuando grandes motivos de interés público lo reclamen.
+Artículo 49.- Corresponde también al Senado autorizar al Presidente de la Confederación para que declare en estado de sitio uno o varios puntos de la República en caso de ataque exterior.
 
-Artículo 51.- Crear y suprimir empleos de toda clase.
+Artículo 50.- Cuando vacase alguna plaza de senador por muerte, renuncia, u otra causa, el Gobierno a que corresponda la vacante, hace proceder, inmediatamente a la elección de un nuevo miembro.
 
-Artículo 52.- Reglar el comercio interior y exterior.
+Artículo 51.- Sólo el Senado inicia las reformas de la Constitución.
 
-Artículo 53.- Demarcar el territorio del Estado y fijar los límites de las provincias, sin perjuicio de la permanencia de las enumeradas en el Artículo 11.
+#### Capítulo III. Disposiciones comunes a ambas Cámaras
 
-Artículo 54.- Habilitar puertos en las costas del territorio cuando lo crea conveniente y elevar las poblaciones al rango de villas, ciudades, provincias en los casos y con las calidades que la ley prefije.
+Artículo 52.- Ambas cámaras se reunirán en sesiones ordinarias todos los años desde el l.º de mayo hasta el 30 de septiembre. Pueden también ser convocadas extraordinariamente Por el Presidente de la Confederación, o prorrogadas sus sesiones.
 
-Artículo 55.- Formar planes generales de educación pública.
+Artículo 53.- Cada.- Cámara es juez de las elecciones, derechos y títulos de sus miembros en cuanto a su validez. Ninguna de ellas entrará en sesión sin la mayoría absoluta de sus miembros; pero un número menor podrá compeler a los miembros ausentes a que concurran a las sesiones, en los términos y bajo las penas que cada Cámara establecerá.
 
-Artículo 56.- Acordar premios a los que hayan hecho o hicieren grandes servicios a la nación.
+Artículo 54.- Ambas Cámaras empiezan y concluyen sus sesiones simultáneamente. Ninguna de ellas mientras se hallen reunidas, podrá suspender sus sesiones más de tres días, sin el consentimiento de la otra.
 
-Artículo 57.- Acordar a los autores o inventores de establecimientos útiles privilegios exclusivos por tiempo determinado.
+Artículo 55.- Cada Cámara hará su reglamento y podrá con dos tercios de votos, corregir a cualquiera de sus miembros por desorden de conducta en el ejercicio de sus funciones, o removerlo por inhabilidad física o moral sobreviniente a su incorporación, y hasta excluirlo de su seno; pero bastará la mayoría de uno sobre la mitad de los presentes para decidir en las renuncias que voluntariamente hicieren de sus cargos.
 
-Artículo 58.- Hacer, en fin, todas las demás leyes y ordenanzas de cualquier naturaleza, que reclame el bien del Estado; modificar, interpretar y abrogar las existentes.
+Artículo 56.- Los senadores y diputados prestarán, en el acto de su incorporación, juramento de desempeñar debidamente el cargo, y de obrar en todo en conformidad a lo que prescribe esta Constitución.
 
-### Capítulo V. De la formación de las Leyes
+Artículo 57.- Ninguno de los miembros del Congreso puede ser acusado, interrogado judicialmente ni molestado por las opiniones o discursos que emita desempeñando su mandato de legislador.
 
-Artículo 59.- Las leyes pueden tener principio en cualquiera de las Cámaras que componen el cuerpo legislativo, por proyectos presentados por sus miembros o por el Poder Ejecutivo por medio de sus Ministros.
+Artículo 58.- Ningún senador o diputado, desde el día de su elección hasta el de su cese, puede ser arrestado; excepto el caso de ser sorprendido in fraganti en la ejecución de algún crimen que merezca pena de muerte, infamante, u otra aflictiva; de lo que se dará cuenta a la Cámara respectiva con la información sumaria del hecho.
 
-Artículo 60.- Se exceptúan de esta regla las relativas a los objetos de que trata el Artículo 18.
+Artículo 59.- Cuando se forme querella por escrito ante las justicias ordinarias contra cualquier senador o diputado, por delito que no sea de los expresados en el Artículo 41, examinado el mérito del sumarlo en juicio público, podrá cada Cámara, con dos tercios de votos, suspender en sus funciones al acusado, y ponerlo a disposición del juez competente para su juzgamiento.
 
-Artículo 61.- Aprobado un proyecto de ley en la Cámara en que haya tenido principio, se pasará a la otra para que, discutido en ella, lo apruebe o lo deseche.
+Artículo 60.- Cada una de las Cámaras puede hacer venir a su sala a los ministros del Poder Ejecutivo para recibir las explicaciones e informes que estime convenientes.
 
-Artículo 62.- Ningún proyecto de ley desechado por una de las Cámaras podrá repetirse en las sesiones de aquel año.
+Artículo 61.- Ningún miembro del Congreso podrá recibir empleo o comisión del Poder Ejecutivo, sin previo consentimiento de la Cámara respectiva, excepto los empleos de escala.
 
-Artículo 63.- Los proyectos de ley aprobados por ambas Cámaras pasarán al Poder Ejecutivo.
+Artículo 62.- Los eclesiásticos regulares no pueden ser miembros del Congreso, ni los gobernadores de provincia por la de su mando.
 
-Artículo 64.- Si el Poder Ejecutivo los suscribe, o en el término de diez días no los devuelve objecionados, tendrán fuerza de ley.
+Artículo 63.- Los servicios de los senadores y diputados son remunerados por el Tesoro de la Confederación con una dotación que señalará la ley.
 
-Artículo 65.- Si encuentra inconvenientes, el Poder Ejecutivo los devolverá, con los reparos que juzgue necesarios, a la Cámara donde tuvieron su origen.
+#### Capítulo IV. Atribuciones del Congreso
 
-Artículo 66.- Reconsiderados en ambas Cámaras, con presencia de aquéllos, dos tercios de sufragios en cada una de ellas harán su última sanción.
+Artículo 64.- Corresponde al Congreso:
 
-Artículo 67.- Las votaciones de ambas Cámaras serán entonces nominales, por sí, o por no; y tanto los nombres y fundamentos de los sufragantes, como las objeciones del Poder Ejecutivo, se publicarán inmediatamente por la Prensa.
+1. Legislar sobre las aduanas exteriores, y establecer los derechos de importación y exportación que han de satisfacerse en ellas;
 
-## Sección V. Del Poder Ejecutivo
+2. Imponer contribuciones directas por tiempo determinado y proporcionalmente iguales en todo el territorio de la Confederación, siempre que la defensa, seguridad común y bien general del Estado lo exijan;
 
-### Capítulo primero. Naturaleza y calidades de este poder
+3. Contraer empréstitos de dinero sobre el crédito de la Confederación;
 
-Artículo 68.- El Poder Ejecutivo de la nación se confía y encarga a una sola persona, bajo el título de Presidente de la República Argentina.
+4. Disponer del uso y de la enajenación de las tierras de propiedad nacional;
 
-Artículo 69.- Ninguno podrá ser elegido Presidente que no haya nacido ciudadano de la República y no tenga las demás calidades exigidas por esta Constitución para ser senador.
+5. Establecer y reglamentar un Banco Nacional en la Capital y sus sucursales en las provincias, con facultad de emitir billetes;
 
-Artículo 70.- Antes de entrar al ejercicio del cargo, el Presidente electo hará en manos del Presidente del Senado, y a presencia de las dos Cámaras reunidas, el juramento siguiente: «Yo (N...) juro por Dios Nuestro Señor y estos Santos Evangelios, que desempeñaré debidamente el cargo de Presidente, que se me confía; que protegeré la Religión Católica, conservaré la integridad e independencia de la República y observaré fielmente la Constitución».
+6. Arreglar él pago de la deuda interior y exterior de la Confederación;
 
-Artículo 71.- El Presidente durará en su cargo por el término de cinco años, y no podrá ser reelecto a continuación.
+7. Fijar anualmente el presupuesto de gastos de administración de la Confederación, y aprobar o desechar la cuenta de inversión;
 
-Artículo 72.- En caso de enfermedad o ausencia del Presidente, o mientras se procede a nueva elección por su muerte, renuncia o destitución, el Presidente del Senado le suplirá, y ejercerá las funciones anexas al Poder Ejecutivo, quedando entretanto suspenso de las de senador.
+8. Acordar subsidios del Tesoro nacional a las provincias cuyas rentas no alcancen, según sus presupuestos, a cubrir sus gastos ordinarios;
 
-### Capítulo II. De la forma y tiempo de la elección del Presidente
+9. Reglamentar la libre navegación de los ríos interiores, habilitar los puertos que considere convenientes, y crear y suprimir aduanas;
 
-Artículo 73.- El Presidente de la República será elegido en la forma siguiente: En la capital, y en cada provincia, se nombrará una junta de quince electores, con las mismas calidades y bajo las mismas formas que para la elección de senadores.
+10. Hacer sellar monedas, fijar su valor y. el de las extranjeras; y adoptar un sistema uniforme de pesos y medidas para toda la Confederación;
 
-Artículo 74.- Reunidos los electores en la ciudad capital de cada una de aquéllas, cuatro meses antes que expire el término del Presidente que acabe, y en un mismo día, que fijará la legislatura, votarán por un ciudadano para Presidente de la República por balotas firmadas.
+11. Dictar los códigos civil, comercial, penal y de minería, y especialmente leyes generales para toda la Confederación sobre ciudadanía y naturalización, sobre bancarrotas, sobre falsificación de la moneda corriente y documentos públicos del Estado, y las que requiera el establecimiento del juicio por jurados;
 
-Artículo 75.- Concluida la votación, y firmada el acta por todos los vocales, se remitirá por el presidente de la junta electoral, cerrada y sellada, al Presidente del Senado.
+12. Reglar el comercio marítimo y terrestre con las naciones extranjeras y de las provincias entre sí;
 
-Artículo 76.- El Presidente del Senado, reunidas todas las actas, las abrirá a presencia de ambas Cámaras.
+13. Arreglar y establecer las postas y correos generales de la Confederación;
 
-Artículo 77.- Asociados a los Secretarios cuatro miembros del Congreso, sacados a la suerte, procederán inmediatamente a formar el escrutinio y anunciar lo que resulte de los sufragios, en favor de cada candidato.
+14. Arreglar definitivamente los límites del territorio de la Confederación; fijar los de las provincias, crear otras nuevas, y determinar por una legislación especial la organización, administración y gobierno que deben tener los territorios nacionales, que queden fuera de los límites que se asignen a las provincias;
 
-Artículo 78.- El que reúna las dos terceras partes de todos los votos, será proclamado inmediatamente Presidente de la República.
+15. Proveer a la seguridad de las fronteras; conservar el trato pacífico con los indios, y promover la conversión de ellos al catolicismo;
 
-Artículo 79.- Si ninguno reuniere las dos terceras partes de los sufragios de los electores, procederá el Congreso a consumar la elección, en los mismos términos prevenidos en los Artículos 22 y 23, sobre la elección de los senadores.
+16. Proveer lo conducente a la prosperidad del país, al adelanto y bienestar de todas las provincias, y al progreso de la ilustración, dictando planes de instrucción general y universitaria, y promoviendo la industria, la inmigración, la construcción de ferrocarriles y canales navegables, la colonización de tierras de propiedad nacional, la introducción y establecimiento de nuevas industrias, la importación de capitales extranjeros y la exploración de los ríos interiores, por leyes protectoras de estos fines y por concesiones temporales de privilegios y recompensas de estímulo;
 
-Artículo 80.- La elección del Presidente debe quedar concluida en una sola sesión, publicándose en seguida por la Prensa las actas de las juntas electorales.
+17. Establecer tribunales inferiores a la Suprema corte de justicia, crear y suprimir empleos, fijar sus atribuciones, dar pensiones, decretar honores y conceder amnistías generales;
 
-### Capítulo III. De las atribuciones del Poder Ejecutivo
+18. Admitir o desechar los motivos de dimisión del Presidente o Vicepresidente de la República, y declarar el caso de proceder a nueva elección: hacer el escrutinio y rectificación de ella;
 
-Artículo 81.- El Presidente es el jefe de la administración general de la República.
+19. Aprobar o desechar los tratados concluidos con las demás Naciones, y los concordatos con la Silla Apostólica; y arreglar el ejercicio del patronato en toda la Confederación;
 
-Artículo 82.- Publica y hace ejecutar las leyes y decretos del Congreso, reglando su ejecución por reglamentos especiales.
+20. Admitir en el territorio de la Confederación otras órdenes religiosas a más de las existentes;
 
-Artículo 83.- Convoca al Congreso a la época prefijada por la Constitución, o extraordinariamente, cuando graves circunstancias lo demanden.
+21. Autorizar al Poder Ejecutivo para declarar la guerra o hacer la paz;
 
-Artículo 84.- Hace anualmente la apertura de sus sesiones, reunidas ambas Cámaras al efecto en la sala del Senado, informándoles en esta ocasión del estado político de la nación y de las mejoras y reformas que considere dignas de su atención.
+22. Conceder patentes de corso y de represalias, y establecer reglamentos para las presas;
 
-Artículo 85.- Expide las órdenes convenientes para que las elecciones que correspondan de senadores y diputados se hagan en oportunidad y con arreglo a la ley, dando cuenta al Congreso de los abusos que advirtiere.
+23. Fijar la fuerza de línea de tierra y de mar en tiempo de paz y guerra; y formar reglamentos y ordenanzas para el gobierno de dichos ejércitos;
 
-Artículo 86.- Es el jefe supremo de las fuerzas de mar y tierra, exclusivamente encargado de su dirección en paz o en guerra; pero no puede mandar en persona el Ejército sin especial permiso del Congreso, con el sufragio de las dos terceras partes de cada Cámara.
+24. Autorizar la reunión de las milicias de todas las provincias, o parte de ellas, cuando lo exija la ejecución de las leyes de la Confederación, y sea necesario contener las insurrecciones o repeler las invasiones. Disponer la organización, armamento y disciplina de dichas milicias, y la administración y gobierno de la parte de ellas que estuviese empleada en servicio de la Confederación, dejando a las provincias el nombramiento de sus correspondientes jefes y oficiales, y el cuidado de establecer en su respectiva milicia la disciplina prescripta por el Congreso;
 
-Artículo 87.- Provee a la seguridad interior y exterior del Estado.
+25. Permitir la introducción de tropas extranjeras en el territorio de la Confederación, y la salida de las fuerzas nacionales fuera de él;
 
-Artículo 88.- Publica la guerra y la paz y toma por sí mismo cuantas medidas puedan contribuir a prepararlas.
+26. Declarar en estado de sitio uno o varios puntos de la Confederación en caso de conmoción interior, y aprobar o suspender el estado de sitio declarado, durante su receso, por el Poder Ejecutivo;
 
-Artículo 89.- Hace los tratados de paz, amistad, alianza, comercio y cualquiera otros; pero no puede ratificarlos sin la aprobación y consentimiento del Senado. En el caso que se estipule la cesión de alguna parte del territorio, o cualquier género de gravámenes pecuniarios contra la nación, será con el consentimiento de ambas Cámaras y con las dos terceras partes de votos.
+27. Ejercer una legislación exclusiva en todo el territorio de la Capital de la Confederación, y sobre los demás lugares adquiridos por compra o cesión en cualquiera de las provincias para establecer fortalezas, arsenales, almacenes, u otros establecimientos de utilidad nacional;
 
-Artículo 90.- Nombra y destituye a los Ministros secretarios de Estado y del despacho general.
+28. Examinar las Constituciones provinciales y reprobarlas si no estuviesen conformes con los principios y disposiciones de esta Constitución; y hacer todas las leyes y reglamentos que sean convenientes para poner en ejercicio los poderes antecedentes y todos los otros concedidos por la presente Constitución al Gobierno de la Confederación Argentina.
 
-Artículo 91.- Nombra igualmente las Embajadores, Ministros plenipotenciarios, Enviados, Cónsules generales y demás agentes, con aprobación del Senado.
+#### Capítulo V. De la formación y sanción de las leyes
 
-Artículo 92.- Mientras el Senado tenga suspendidas sus sesiones podrá, en caso de urgencia, hacer los nombramientos necesarios para los empleos indicados en el Artículo anterior; obteniendo su aprobación luego que se halle reunido.
+Artículo 65.- Las leyes pueden tener principio en cualquiera de las Cámaras del Congreso, por proyectos presentados por sus miembros o por el Poder Ejecutivo; excepto las relativas a los objetos de que tratan los Artículos 40 y 51.
 
-Artículo 93.- Recibe, según las formas establecidas, los Ministros y agentes de las naciones extranjeras.
+Artículo 66.- Aprobado un proyecto de ley por la Cámara de su origen, pasa para su discusión a la otra Cámara. Aprobado por ambas, pasa al Poder Ejecutivo de la Confederación para su examen; y si también obtiene su aprobación lo promulga como ley.
 
-Artículo 94.- Expide las cartas de ciudadanía, con sujeción a las formas y calidades que exige la ley.
+Artículo 67.- Se reputa aprobado por el Poder Ejecutivo, todo proyecto no devuelto en el término de diez días útiles.
 
-Artículo 95.-Ejerce el patronato general respecto a las iglesias, beneficios y personas eclesiásticas, con arreglo a las leyes: nombra a los arzobispos y obispos a propuesta en terna del Senado.
+Artículo 68.- Ningún proyecto de ley desechado totalmente por una de las Cámaras, podrá repetirse en las sesiones de aquel año. Pero si sólo fuere adicionado o corregido por la Cámara revisora, volverá a la de su origen; y si en éstas se aprobasen las adiciones o correcciones por mayoría absoluta, pasará al Poder Ejecutivo de la Confederación. Si las adiciones o correcciones fuesen desechadas, volverá segunda vez el proyecto a la Cámara revisora, y si aquí fueren nuevamente sancionadas por una mayoría de las dos terceras partes de sus miembros, pasará el proyecto a la otra Cámara, y no se entenderá que ésta reprueba dichas adiciones o correcciones, si no concurre para ello el voto de las dos terceras partes de sus miembros presentes.
 
-Artículo 96.- Todos los objetos y ramos de Hacienda y Policía, los establecimientos públicos, y nacionales, científicos y de todo género, formados y sostenidos con fondos del Estado las casas de moneda, Bancos nacionales, correos, postas y caminos son de la suprema inspección y resorte del Presidente de la República, bajo las leyes y ordenanzas que los rigen o que en adelante formare el Cuerpo legislativo.
+Artículo 69.- Desechado en el todo o en parte un proyecto por el Poder Ejecutivo, vuelve con sus objeciones a la Cámara de su origen: ésta lo discute de nuevo, y si lo confirma por mayoría dedos tercios de votos, pasa otra vez a la Cámara de revisión. Si ambas Cámaras lo sancionan por igual mayoría, el proyecto es ley y pasa al Poder Ejecutivo para su promulgación. Las votaciones de ambas Cámaras serán en este caso nominales, por sí, o por no; y tanto los nombres y fundamentos de los sufragantes, como las objeciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa. Si las Cámaras difieren sobre las objeciones, el proyecto no podrá repetirse en las sesiones de aquel año.
 
-Artículo 97.- Provee todos los empleos que no le son reservados por esta Constitución.
+Artículo 70.- En la sanción de las leyes se usará de esta fórmula: El Senado y Cámara de Diputados de la Confederación Argentina, reunidos en Congreso, se decretan o sancionan con fuerza de ley.
 
-Artículo 98.- Puede pedir a los jefes de todos los ramos y departamentos de la Administración, y por su conducto a los demás empleados, los informes que crea convenientes, y ellos son obligados a prestarlos.
+### Sección segunda. Del Poder Ejecutivo
 
-Artículo 99.- Puede indultar de la pena capital a un criminal, previo informe del tribunal o Juez de la causa, cuando medien graves o poderosos motivos, salvo los delitos que la ley exceptúa.
+#### Capítulo I. De su naturaleza y duración
 
-Artículo 100.- Provee, con arreglo a ordenanza, a las consultas que se le hagan en los casos que ella previene sobre las sentencias pronunciadas por los Juzgados militares.
+Artículo 71.- El Poder Ejecutivo de la Nación será desempeñado por un ciudadano con el título de «Presidente de la Confederación Argentina».
 
-Artículo 101.- Recibirá por sus servicios la dotación establecida por la ley, que ni se aumentará ni se disminuirá durante el tiempo de su mando.
+Artículo 72.- En caso de enfermedad, ausencia de la Capital, muerte, renuncia o destitución del Presidente, el Poder Ejecutivo será ejercido por el Vicepresidente de la Confederación. En caso de destitución, muerte, dimisión o inhabilidad del Presidente y Vicepresidente de la Confederación, el Congreso determinará qué funcionario público ha de desempeñar la presidencia, hasta que haya cesado la causa de la inhabilidad o un nuevo Presidente sea electo.
 
-### Capítulo IV. De los Ministros
+Artículo 73.- Para ser elegido Presidente o Vicepresidente de la Confederación se requiere haber nacido en el territorio argentino, o ser hijo de ciudadano nativo, habiendo nacido en país extranjero; pertenecer a la comunión católica apostólica romana, y las demás calidades exigidas para ser electo senador.
 
-Artículo 102.- Cinco Ministros secretarios, a saber: de Gobierno, de Negocios Extranjeros, de Guerra, de Marina y de Hacienda tendrán a su cargo el despacho de los negocios de la República y autorizarán las resoluciones del Presidente, sin cuyo requisito no tendrán efecto.
+Artículo 74.- El Presidente y Vicepresidente duran en sus empleos el término de seis años; y no pueden ser reelegidos sino con intervalo de un período.
 
-Artículo 103.- El Presidente puede reunir accidentalmente el despacho de dos departamentos a cargo de un solo Ministro.
+Artículo 75.- El Presidente de la Confederación cesa en el poder el día mismo en que expira su período de seis años; sin que evento alguno que lo haya interrumpido, pueda ser motivo de que se le complete más tarde.
 
-Artículo 104.- Los cinco Ministros secretarios forman el Consejo de Gobierno, que asistirá con sus dictámenes al Presidente en los negocios de más gravedad y trascendencia.
+Artículo 76.- El Presidente y Vicepresidente disfrutan de un sueldo pagado por el Tesoro de la Confederación, que no podrá ser alterado en el período de sus nombramientos. Durante el mismo período no podrán ejercer otro empleo, ni recibir ningún otro emolumento de la Confederación ni de provincia alguna.
 
-Artículo 105.- El Presidente oirá los dictámenes del Consejo, sin quedar obligado a sujetarse a ellos en las resoluciones que tuviere a bien tomar.
+Artículo 77.- Al tomar posesión de su cargo el Presidente y Vicepresidente prestarán juramento en manos del Presidente del Senado (la primera vez del presidente del Congreso constituyente), estando reunido el Congreso, en los términos siguientes: «Yo N. N. juro por Dios Nuestro Señor y estos Santos Evangelios, desempeñar con lealtad y patriotismo el cargo de Presidente (o Vicepresidente) de la Confederación, y observar y hacer observar fielmente la Constitución de la Confederación Argentina. Si así no lo hiciere, Dios y la Confederación me lo demanden».
 
-Artículo 106.- En los casos de responsabilidad, los Ministros no quedarán exentos de ella por la concurrencia de la firma o consentimiento del Presidente de la República.
+#### Capítulo II. De la forma y tiempo de la elección del Presidente y Vicepresidente de la Confederación
 
-Artículo 107.- Los Ministros no podrán por sí solos, en ningún caso, tomar deliberaciones sin previo mandato o consentimiento del Presidente de la República, a excepción de lo concerniente al régimen especial de sus respectivos departamentos.
+Artículo 78.- La elección del Presidente y Vicepresidente de la Confederación se hará, del modo siguiente: La Capital y cada una de las provincias nombrarán por votación directa una junta de electores, igual al duplo del total de diputados y senadores que envían al Congreso, con las mismas calidades y bajo las mismas formas prescriptas para la elección de diputados.
 
-Artículo 108.- No podrán ser diputados ni senadores sin hacer dimisión de sus empleos de Ministros.
+No pueden ser electores los diputados, los senadores ni los empleados a sueldo del Gobierno federal.
 
-Artículo 109.- Gozarán de una compensación por sus servicios establecida por la ley, que no podrá ser aumentada ni disminuida en favor o perjuicio de los que se hallen en ejercicio.
+Reunidos los electores en la Capital de la Confederación y en la de sus provincias respectivas cuatro meses antes que concluya el término del Presidente cesante, procederán a elegir Presidente y Vicepresidente de la Confederación por cédulas firmadas, expresando en una la persona, por quien votan para Presidente, y en otra distinta, la que eligen para Vicepresidente.
 
-## Sección VI. Del Poder Judicial
+Se harán dos listas de todos los individuos electos para Presidente y otras dos de los nombrados para Vicepresidente con el número de votos que cada uno de ellos hubiere obtenido. Estas listas serán firmadas por los electores, y se remitirán cerradas y selladas dos de ellas (una de cada clase), al presidente de la Legislatura provincial, y en la Capital al presidente de la Municipalidad, en cuyos registros permanecerán depositadas y cerradas, y las otras dos al presidente del Senado (la primera vez al presidente del Congreso Constituyente).
 
-### Capítulo primero. De la Corte Suprema de Justicia
+Artículo 79.- El presidente del Senado (la primera vez el del Congreso Constituyente), reunidas todas las listas, las abrirá a presencia de ambas Cámaras. Asociados a los secretarios cuatro miembros del Congreso sacados a la suerte, procederán inmediatamente a hacer el escrutinio y a anunciar el número de sufragios que resulte en favor de cada candidato para la Presidencia y Vicepresidencia de la Confederación. Los que reúnan en ambos casos la mayoría absoluta de todos los votos, serán proclamados inmediatamente Presidente y Vicepresidente.
 
-Artículo 110.- El Poder Judicial de la República será ejercido por la Alta Corte de Justicia, tribunales superiores y demás Juzgados establecidos por la ley.
+Artículo 80.- En el caso de que, por dividirse la votación no hubiese mayoría absoluta, elegirá el Congreso entre las dos personas que hubieren obtenido mayor número de sufragios. Si la primera mayoría que resultare hubiese cabido a más de dos personas, elegirá el Congreso entre todas éstas. Si la primera mayoría hubiere cabido a una sola persona, y la segunda a dos o más, elegirá el Congreso entre todas las personas que hayan obtenido la primera y segunda mayoría.
 
-Artículo 111.- Una Corte de Justicia compuesta de nueve Jueces y dos Fiscales ejercerá el supremo Poder Judicial.
+Artículo 81.- Esta elección se hará a pluralidad absoluta de sufragios y por votación nominal. Si verificada la primera votación, no resultare mayoría absoluta, se hará segunda vez, contrayéndose la votación a las dos personas que en la primera hubiesen obtenido mayor número de sufragios. En caso de empate, se repetirá la votación, y si resultase nuevo empate, decidirá el presidente del Senado (la primera vez el del Congreso Constituyente). No podrá hacerse el escrutinio, ni la rectificación de estas elecciones, sin que estén presentes las tres cuartas partes del total de los miembros del Congreso.
 
-Artículo 112.- Ninguno podrá ser miembro de ella que no sea letrado recibido con ocho años de ejercicio, cuarenta de edad y que no reúna las calidades necesarias por esta Constitución para ser senador.
+Artículo 82.- La elección del Presidente y Vicepresidente de la Confederación debe quedar concluida en una sola sesión del Congreso, publicándose enseguida' el resultado de ésta y las actas electorales por la prensa.
 
-Artículo 113.- El Presidente y demás miembros de la Alta Corte de Justicia serán nombrados por el Presidente de la República, con noticia y consentimiento del Senado.
+#### Capítulo III. Atribuciones del Poder Ejecutivo
 
-Artículo 114.- En la primera instalación de la Corte los provistos prestarán juramento en manos del Presidente de la República de desempeñar sus obligaciones administrando justicia bien y legalmente; en lo sucesivo lo prestarán ante el de la misma Corte.
+Artículo 83.- El Presidente de la Confederación tiene las siguientes atribuciones:
 
-Artículo 115.- El presidente de la Alta Corte de Justicia durará en el ejercicio de las funciones de tal por el término de cinco años; pero todos sus miembros permanecerán en sus respectivos cargos mientras dure su buena comportación, debiendo preceder, para ser destítuidos, juicio y sentencia legal.
+1. Es el jefe supremo de la Confederación, y tiene a su cargo la administración general del país;
 
-Artículo 116.- Los miembros de la Alta Corte de Justicia no pueden ser senadores ni representantes sin hacer dimisión de sus empleos, ni pueden ser empleados en otros destinos por el Presidente de la República sin su consentimiento y aprobación de la Corte.
+2. Expide las instrucciones y reglamentos que sean necesarios para la ejecución de las leyes de la Confederación, cuidando de no alterar su espíritu con excepciones reglamentarias;
 
-Artículo 117.- La Alta Corte de Justicia nombrará sus oficiales en el número y forma que prevenga la ley.
+3. Es el jefe inmediato y local de la Capital de la Confederación;
 
-Artículo 118.- Conocerá originaria y exclusivamente en todos los asuntos en que sea parte una provincia o que se susciten entre provincia y provincia o pueblos de una misma provincia sobre límites y otros derechos contenciosos promovidos de modo que deba recaer sobre ellos formal sentencia.
+4. Participa de la formación de las leyes con arreglo a la Constitución, las sanciona y promulga;
 
-Artículo 119.- En las cuestiones que resulten con motivos de contrato o negociaciones del Poder Ejecutivo o de sus agentes bajo su inmediata aprobación.
+5. Nombra los magistrados de la Corte Suprema y de los demás tribunales federales inferiores, con acuerdo del Senado;
 
-Artículo 120.- En las causas de todos los funcionarios públicos de que hablan los Artículos 19, 27, 28 y 29 y respecto de los casos en ellos indicados.
+6. Puede indultar o conmutar las penas Por delitos sujetos a la jurisdicción federal, previo informe del tribunal correspondiente excepto en los casos de acusación por la Cámara de Diputados;
 
-Artículo 121.- En las que conciernen a los Embajadores, Ministros Plenipotenciarios, Enviados, Cónsules y Agentes diplomáticos de las Cortes extranjeras.
+7. Concede jubilaciones, retiros, licencias y goces de montepíos, conforme a las leyes de la Confederación;
 
-Artículo 122.- Para el conocimiento de los negocios que en los cuatro Artículos anteriores se atribuye originariamente a la Alta Corte de Justicia se dividirá ésta en dos salas. La primera, compuesta de tres de sus miembros, conocerá de la primera instancia, y la otra, compuesta de los seis miembros restantes, conocerá de la segunda y última instancia.
+8. Ejerce los derechos del patronato nacional en la presentación de obispos para las iglesias catedrales, a propuesta en terna del Senado;
 
-Artículo 123.- Conocerá en último grado de los recursos que en los casos y forma que la ley designe se eleven de los tribunales subalternos, y de las causas del Almirantazgo, de todos los negocios contenciosos de Hacienda y de los crímenes cometidos contra el derecho público de las naciones.
+9. Concede el pase o retiene los decretos de los concilios, las bulas; breves y rescriptos del Sumo Pontífice de Roma, con acuerdo de la Suprema corte; requiriéndose una ley cuando contienen disposiciones generales y permanentes;
 
-Artículo 124.- Dirimirá las competencias que se susciten entre los demás tribunales superiores de la Nación.
+10. Nombra y remueve a los ministros plenipotenciarios y encargados de negocios, con acuerdo del Senado; y por sí sólo nombra y remueve los ministros del despacho, los oficiales de sus secretarías, los agentes consulares, y los demás empleados de la administración cuyo nombramiento no está reglado de otra manera por esta Constitución;
 
-Artículo 125.- Examinará los breves y bulas pontificias y abrirá dictamen al Poder Ejecutivo sobre su admisión o retención.
+11. Hace anualmente la apertura de las sesiones del Congreso, reunidas al efecto ambas Cámaras en la sala del Senado, dando cuenta en esta ocasión al Congreso del estado de la Confederación, de las reformas prometidas por la Constitución, y recomendando a su consideración las medidas que juzgue necesarias y convenientes;
 
-Artículo 126.- Conocerá de los recursos de fuerza de los tribunales superiores eclesiásticos de la capital.
+12. Prorroga las sesiones ordinarias del Congreso, o lo convoca a sesiones extraordinarias, cuando un grave interés de orden o de progreso lo requiera;
 
-Artículo 127.- Informará de tiempo en tiempo al Cuerpo Legislativo de todo lo conveniente para la mejora de la administración de justicia y elevará todas las dudas que le propusiesen los demás tribunales sobre la inteligencia de las leyes.
+13. Hace recaudar las rentas de la Confederación, y decreta su inversión con arreglo a la ley o presupuestos de gastos nacionales;
 
-Artículo 128.- Los juicios de la Alta Corte de Justicia y la votación definitiva serán públicos.
+14. Concluye y firma tratados de paz, de comercio, de navegación, de alianza, de límites y de neutralidad, concordatos y otras negociaciones requeridas para el mantenimiento de buenas relaciones con las potencias extranjeras, recibe sus ministros y admite sus cónsules;
 
-Artículo 129.- Sus miembros gozarán de una compensación que no podrá ser disminuida mientras duren en sus puestos.
+15. Es comandante en jefe de todas las fuerzas de mar y tierra de la Confederación;
 
-## Sección VII. De la Administración Provincial
+16. Provee los empleos militares de la Confederación: con acuerdo del Senado, en la concesión de los empleos, o grados de oficiales superiores del ejército y armada; y por sí sólo en el campo de batalla;
 
-### Capítulo primero. De los Gobernadores
+17. Dispone de las fuerzas militares, marítimas y terrestres, y corre con su organización y distribución según las necesidades de la Confederación;
 
-Artículo 130.- En cada provincia habrá un Gobernador que la rija, bajo la inmediata dependencia del Presidente de la República.
+18. Declara la guerra y concede patentes de corso, y cartas de represalias con autorización y aprobación del Congreso;
 
-Artículo 131.- Tendrá la edad de treinta años y las calidades necesarias para senador.
+19. Declara en estado de sitio uno o varios puntos de la Confederación, en caso de ataque exterior, y por un término limitado, con acuerdo del Senado. En caso de conmoción interior sólo tiene esta facultad cuando el Congreso está en receso, porque es atribución que corresponde a este cuerpo. El Presidente la ejerce con las limitaciones prescriptas en el Artículo 23;
 
-Artículo 132.- El Presidente nombra los Gobernadores de las provincias a propuesta en terna de los Consejos de Administración.
+20. Aun estando en sesiones el Congreso, en casos urgentes en que peligre la tranquilidad pública, el Presidente podrá por sí solo usar sobre las personas, de la facultad limitada en el Artículo 23; dando cuenta a este cuerpo en el término de diez días desde que comenzó a ejercerla. Pero si el Congreso no hace declaración de sitio, las personas arrestadas o trasladadas de uno a otro punto, serán restituidas al pleno goce de su libertad, a no ser que habiendo sido sujetas a juicio, debiesen continuar en arresto por disposición del juez o tribunal que conociere de la causa;
 
-Artículo 133.- Son encargados de ejecutar en ellas las leves generales dadas por la legislatura nacional, los decretos del Presidente de la República y las disposiciones particulares acordadas por los Consejos de Administración.
+21. Puede pedir a los jefes de todos los ramos y departamentos de la administración, y por su conducto a los demás empleados, los informes que crea convenientes, y ellos son obligados a darlos;
 
-Artículo 134.- A ellos corresponde proveer, con las formalidades que los Consejos de Administración establezcan, todos los empleos dotados por las rentas particulares de las provincias.
+22. No puede ausentarse del territorio de la Capital, sino con permiso del Congreso. En el receso de éste, sólo podrá hacerlo sin licencia por graves objetos de servicio público;
 
-Artículo 135.- Durarán en el ejercicio de sus funciones por tres años y no podrán ser reelectos a continuación en la misma provincia.
+23. En todos los casos en que según los Artículos anteriores, debe el Poder Ejecutivo proceder con acuerdo del Senado, podrá durante el receso de éste, proceder por sí sólo, dando cuenta de lo obrado a dicha Cámara en la próxima reunión para obtener su aprobación.
 
-Artículo 136.- Gozarán de una compensación que les designará la ley.
+#### Capítulo IV. De los Ministros del Poder Ejecutivo
 
-### Capítulo II. De los Tribunales Superiores de Justicia
+Artículo 84.- Cinco ministros secretarios, a saber: Del Interior, de Relaciones Exteriores, de Hacienda, de Justicia, Culto e Instrucción Pública, y de Guerra y Marina, tendrán a su cargo el despacho de los negocios de la Confederación, y refrendarán y legalizarán los actos del Presidente por medio de su firma, sin cuyo requisito carecen de eficacia. Una ley deslindará los ramos del respectivo despacho de los ministros.
 
-Artículo 137.- Se establecerán Tribunales Superiores de Justicia en las capitales de aquellas provincias que la legislatura juzgue conveniente, atendidas las ventajas de su situación geográfica, población y demás circunstancias.
+Artículo 85.- Cada ministro es responsable de los actos que legaliza; y solidariamente de los que acuerda con sus colegas.
 
-Artículo 138.- Conocerán en grado de apelación de los recursos que se eleven a ellos de los Juzgados de primera instancia y de los demás negocios que les correspondan por ley, no sólo del territorio de la provincia de su residencia, sino del de las demás que la ley declare dependientes a este respecto.
+Artículo 86.- Los ministros no pueden por sí solos, en ningún caso, tomar resoluciones, sin previo mandato o consentimiento del Presidente de la Confederación; a excepción de lo concerniente al régimen económico y administrativo de sus respectivos departamentos.
 
-Artículo 139.- Se compondrán los Tribunales Superiores de Jueces letrados, nombrados por el Presidente de la República a propuesta en terna de la Alta Corte de Justicia; su número será fijado por la ley.
+Artículo 87.- Luego que el Congreso abra sus sesiones, deberán los ministros del despacho presentarle una memoria detallada del estado de la Confederación en lo relativo a los negocios de sus respectivos departamentos.
 
-### Capítulo III. De los Consejos de Administración
+Artículo 88.- No pueden ser senadores ni diputados sin hacer dimisión de sus empleos de ministros.
 
-Artículo 140.- En cada capital de provincia habrá un Consejo de Administración que, velando por su prosperidad, promueva sus particulares intereses.
+Artículo 89.- Pueden los ministros concurrir a las sesiones del Congreso y tomar parte en sus debates, pero no votar.
 
-Artículo 141.- El número de personas que compongan dichos Consejos no podrá ser menor de siete ni mayor de quince. La legislatura lo fijará en cada capital, habida consideración a la población y demás circunstancias políticas de la provincia.
+Artículo 90.- Gozarán por sus servicios de un sueldo establecido por la ley, que no podrá ser aumentado ni disminuido en favor o perjuicio de los que se hallen en ejercicio.
 
-Artículo 142.- Los miembros de los Consejos de Administración interior serán elegidos popularmente por nombramiento directo, en los mismos términos y bajo las mismas formas que los representantes nacionales.
+### Sección tercera. Del Poder Judicial
 
-Artículo 143.- Todo lo concerniente a promover la prosperidad y el adelantamiento de las provincias, su policía interior, la educación primaria, obras públicas y cualesquiera establecimientos costeados y sostenidos por sus propias rentas será reglado por los Consejos de Administración.
+#### Capítulo I. De su naturaleza y duración
 
-Artículo 144.- Por ellos mismos se establecerán los empleos que sean necesarios para el buen régimen de cada provincia y se reglarán las formalidades que deben observarse en su previsión.
+Artículo 91.- El Poder Judicial de la Confederación, será ejercido por una Corte suprema de justicia, compuesta de nueve jueces y dos fiscales, que residirá en la Capital, y por los demás tribunales inferiores que el Congreso estableciere en el territorio de la Confederación.
 
-Artículo 145.- Los Consejos de Administración acordarán anualmente el presupuesto de los gastos que demande el servicio interior de las provincias.
+Artículo 92.- En ningún caso el Presidente de la Confederación puede ejercer funciones judiciales, arrogarse el conocimiento de causas pendientes, o restablecer las fenecidas.
 
-Artículo 146.- El presupuesto de que habla el Artículo anterior se pasará oportunamente al Presidente de la República para que, con el presupuesto general de los gastos que demande el servicio del Estado, sea presentado a la aprobación de la legislatura nacional.
+Artículo 93.- Los jueces de la Corte suprema y de los tribunales inferiores de la Confederación conservarán sus empleos mientras dure su buena conducta, y recibirán por sus servicios una compensación que determinará la ley, y que no podrá ser disminuida en manera alguna, mientras permaneciesen en sus funciones.
 
-Artículo 147.- Para cubrir los gastos del servicio interior de las provincias los Consejos de Administración establecerán en ellas sus rentas particulares y reglarán su recaudación.
+Artículo 94.- Ninguno podrá ser miembro de la Corte suprema de justicia, sin ser abogado de la Confederación con ocho años de ejercicio, y tener las calidades requeridas para ser senador.
 
-Artículo 148.- Las rentas de que habla el Artículo anterior consistirán precisamente en impuestos directos, pues que toda contribución indirecta queda adscripta al tesoro común de la Nación.
+Artículo 95.- En la primera instalación de la Corte suprema los individuos nombrados prestarán juramento en manos del Presidente de la Confederación, de desempeñar sus obligaciones administrando justicia bien y legalmente, y en conformidad a lo que prescribe la Constitución. En lo sucesivo, lo presentarán ante el presidente de la misma Corte.
 
-Artículo 149.- Las rentas particulares que se arreglen en cada provincia por los Consejos de Administración no se llevarán a efecto sin haber obtenido la aprobación de la legislatura nacional, y el orden que se establezca para su recaudación se sujetará igualmente a la aprobación del Presidente de la República.
+Artículo 96.- La Corte suprema dictará su reglamento interior y económico, y nombrará todos sus empleados subalternos.
 
-Artículo 150.- Mientras las rentas establecidas, atendido el estado actual de las provincias, no alcancen a cubrir sus gastos ordinarios se les suplirá del Tesoro nacional lo que falte, llevando a cada provincia una cuenta particular de estos suplementos, que serán reintegrados en proporción que sus rentas mejoren.
+#### Capítulo II. Atribuciones del Poder Judicial
 
-Artículo 151.- Si después de cubiertos los gastos de la provincia sus rentas dejasen algún sobrante éste será invertido precisamente en la provincia misma y en aquellas obras o establecimientos que el Consejo de Administración acuerde, previa la aprobación de la legislatura nacional.
+Artículo 97.- Corresponde a la Corte suprema y a los tribunales inferiores de la Confederación, el conocimiento y decisión de todas las causas que versen sobre puntos regidos por la Constitución, por las leyes de la Confederación, y por los tratados con las naciones extranjeras; de los conflictos entre los diferentes poderes públicos de una misma provincia; de las causas concernientes a embajadores, ministros públicos y cónsules extranjeros; de las causas de almirantazgo y jurisdicción marítima; de los recursos de fuerza; de los asuntos en que la Confederación sea parte; de las causas que se susciten entre dos o más provincias; entre una provincia y los vecinos de otra; entre los vecinos de diferentes provincias; entre una provincia y sus propios vecinos; y entre una provincia y un Estado o ciudadano extranjero.
 
-Artículo 152.- En las provincias no podrá exigirse de los ciudadanos servicio alguno ni imponerse multas o cualquier otra exacción fuera de las establecidas por leyes generales sin la especial autorización de los Consejos de Administración.
+Artículo 98.- En estos casos la Corte suprema ejercerá su jurisdicción por apelación, según las reglas y excepciones que prescriba el Congreso; pero en todos los asuntos concernientes a embajadores, ministros y cónsules extranjeros, en los que alguna provincia fuese parte, y en la decisión de los conflictos entre los poderes públicos de una misma provincia, la ejercerá originaria y exclusivamente.
 
-Artículo 153.- La cuenta de la recaudación e inversión de las rentas de cada provincia se presentará a su respectivo Consejo de Administración y éste, después de examinarla, la pasará, con su juicio, al presidente de la República para que, con las cuentas de la Administración general, se sometan todas a la aprobación de la legislatura nacional.
+Artículo 99.- Todos los juicios criminales ordinarios, que no se deriven del derecho de acusación concedido a la Cámara de Diputados, se terminarán por jurados, luego que se establezca en la Confederación esta institución. La actuación de estos juicios se hará en la misma provincia donde se hubiere cometido el delito; pero cuando éste se cometa fuera de los límites de la Confederación, contra el derecho de gentes, el Congreso determinará por una ley especial el lugar en que haya de seguirse el juicio.
 
-Artículo 154.- Los Consejos de Administración tienen el derecho de petición directa a la legislatura nacional y al Presidente de la República o para reclamar cuanto juzguen conveniente a su propia prosperidad o para exigir la reforma de los abusos que se introduzcan en su régimen y administración.
+Artículo 100.- La traición contra la Confederación consistirá únicamente en tomar las armas contra ella, o en unirse a. sus enemigos prestándoles ayuda y socorro. El Congreso fijará por una ley especial la pena de este delito; pero ella no pasará de la persona del delincuente ni la infamia del reo se transmitirá a sus parientes de cualquier grado.
 
-Artículo 155.- Los individuos que componen el Consejo de Administración no tendrán en caso alguno que responder por sus opiniones ni estarán sujetos por ellas a otro juicio que al de la censura pública.
+## Título segundo. Gobiernos de Provincia
 
-Artículo 156.- Durarán en el ejercicio de sus funciones por dos años y serán reemplazados cada año por mitad.
+Artículo 101.- Las provincias conservan todo el poder no delegado por esta Constitución al Gobierno federal.
 
-Artículo 157.- No recibirán compensación alguna por este servicio.
+Artículo 102.- Se dan sus propias instituciones locales y se rigen por ellas. Eligen sus gobernadores, sus legisladores y demás funcionarios de provincia, sin intervención del Gobierno federal.
 
-Artículo 158.- Para que los Consejos de Administración se expidan uniformemente en el ejercicio de sus importantes funciones, el Presidente de la República formará desde luego un reglamento en que se establezca la policía interior de estos Cuerpos, los períodos de su reunión y el orden que deben observar en sus debates y resoluciones. Este reglamento irá mejorando según lo aconseje la experiencia y lo representen los mismos Consejos.
+Artículo 103.- Cada provincia dicta su propia Constitución, y antes de ponerla en ejercicio, la remite al Congreso para su examen, conforme a lo dispuesto en el Artículo 5.
 
-## Sección VIII. De Disposiciones Generales
+Artículo 104.- Las provincias pueden celebrar tratados parciales para fines de administración de justicia de intereses económicos y trabajos de utilidad común, con conocimiento del Congreso federal; y promover su industria, la inmigración, la construcción de ferrocarriles, y canales navegables, la colonización de tierras de propiedad provincial, la introducción y establecimiento de nuevas industrias, la importación de capitales extranjeros y la exploración de sus ríos, por leyes protectoras de estos fines, y con sus recursos propios.
 
-Artículo 159.- Todos los habitantes del Estado deben ser protegidos en el goce de su vida, reputación, libertad, seguridad y propiedad. Nadie puede ser privado de ellos sino conforme a las leyes.
+Artículo 105.- Las provincias no ejercen el poder delegado a la Confederación. No pueden celebrar tratados parciales de carácter político; ni expedir leyes sobre comercio, o navegación interior o exterior; ni establecer aduanas provinciales; ni acuñar moneda; ni establecer bancos con facultad de emitir billetes, sin autorización del Congreso federal; ni dictar los códigos civil, comercial, penal y de minería después que el Congreso los haya sancionado; ni dictar especialmente leyes sobre ciudadanía y naturalización, bancarrotas, falsificación de moneda o documentos del Estado; ni establecer derechos de tonelaje; ni armar buques de guerra o levantar ejércitos, salvo el caso de invasión exterior o de un peligro tan inminente que no admita dilación, dando luego cuenta al Gobierno federal; ni nombrar o recibir agentes extranjeros; ni admitir nuevas órdenes religiosas.
 
-Artículo 160.- Los hombres son de tal manera iguales ante la ley que ésta, bien sea penal, preceptiva o tuitiva, debe ser una misma para todos y favorecer igualmente al poderoso que al miserable para la conservación de sus derechos.
+Artículo 106.- Ninguna provincia puede declarar ni hacer la guerra a otra provincia. Sus quejas deben ser sometidas a la Corte suprema de justicia y dirimidas por ella. Sus hostilidades de hecho son actos de guerra civil, calificados de sedición o asonada, que el Gobierno federal debe sofocar y reprimir conforme a la ley.
 
-Artículo 161.- La libertad de publicar sus ideas por la Prensa, que es un derecho tan apreciable al hombre como esencial para la conservación de la libertad civil, será plenamente garantida por las leyes.
-
-Artículo 162.- Las acciones privadas de los hombres, que de ningún modo ofenden al orden público ni perjudican a un tercero, están sólo reservadas a Dios y exentas de las autoridades de los Magistrados.
-
-Artículo 163.- Ningún habitante del Estado será obligado a hacer lo que no manda la ley ni privado de lo que ella no, prohíbe.
-
-Artículo 164.- Es de interés y del derecho de todos los miembros del Estado el ser juzgados por Jueces los más independientes e imparciales que sea dado a la condición de las cosas humanas. El Cuerpo legislativo cuidará de preparar y poner en planta el establecimiento del juicio por jurados en cuanta lo permitan las circunstancias.
-
-Artículo 165.- Queda absolutamente prohibido todo juicio por comisión.
-
-Artículo 166.- Todo ciudadano debe estar seguro contra las requisiciones arbitrarias y apoderamiento injusto de sus papeles y correspondencias. La ley determinará en qué casos y con qué justificación pueda procederse a ocuparlos.
-
-Artículo 167.- Ningún individuo podrá ser arrestado sin que preceda al menos declaración contra él de un testigo idóneo o sin indicios vehementes de crimen que merezca pena corporal, cuyos motivos se harán constar en proceso informativo dentro de tres días perentorios. En el caso de haber impedimento, el Juez pondrá constancia de él, quedando responsable de toda omisión por su parte.
-
-Artículo 168.- Cualquier individuo sorprendido in fraganti puede ser arrestado, y todos pueden arrestarlo y conducirle a la presencia del Magistrado con arreglo al artículo anterior.
-
-Artículo 169.- Para el arresto de un individuo fuera del caso de delito in fraganti debe preceder un mandamiento firmado por el Magistrado, a quien la ley conceda esta facultad, que exprese el motivo de este arresto, que debe notificársele en el acto de la prisión y del cual se le debe dar copia si la pidiere.
-
-Artículo 170.- Las cárceles sólo deben servir para la seguridad y no para castigo de los reos. Toda medida que a pretexto de precaución conduzca a mortificarlos más allá de lo que aquélla exige será corregida según las leyes.
-
-Artículo 171.- Ningún habitante del Estado puede ser penado ni confinado sin que preceda juicio y sentencia legal.
-
-Artículo 172.- La casa de todo habitante del Estado es un sagrado, que no puede violarse sin crimen, y sólo podrá allanarse en caso de resistencia a la autoridad legítima.
-
-Artículo 173.- Esta diligencia se hará con la moderación debida personalmente por el mismo Juez. En caso que algún urgente motivo se lo impida, dará al delegado orden por escrito con las especificaciones convenientes y se dejará copia de ella al individuo que fuese aprehendido, y al dueño de la casa si lo pidiere.
-
-Artículo 174.- Las anteriores disposiciones relativas a la seguridad individual no podrán suspenderse sino en el caso de inminente peligro de que se comprometa la tranquilidad pública o la seguridad de la patria, a juicio y por disposición especial del Congreso.
-
-Artículo 175.- Siendo la propiedad un derecho sagrado e inviolable, los habitantes del Estado no pueden ser privados de ella ni gravados en sus facultades, sino en los casos establecidos por la ley.
-
-Artículo 176.- Cuando el interés del Estado exija que la propiedad de algún individuo particular sea destinada a usos públicos bajo las formalidades de la ley, el propietario recibirá por ella una justa compensación.
-
-Artículo 177.- Queda prohibida la pena de confiscación de bienes.
-
-Artículo 178.- Ninguno será obligado a prestar auxilios de cualquier clase para los ejércitos ni a franquear su casa para alojamiento de un cuerpo o individuo militar sino de orden del Magistrado civil, según la ley. El perjuicio que en este caso se infiera al propietario será indemnizaciones competentemente por el Estado.
-
-Artículo 179.- Todos los habitantes del Estado tienen derecho para elevar sus quejas y ser oídos hasta de las primeras autoridades del país.
-
-Artículo 180.- A ningún hombre o corporación se concederán ventajas, distinciones o privilegios exclusivos sino los que sean concedidos a la virtud o los talentos, y no siendo éstos transmisibles a los descendientes se prohíbe conceder título alguno de nobleza.
-
-Artículo 181.- Se ratifica la ley de libertad de vientres y las que prohíben el tráfico de esclavos y su introducción al país, bajo cualquier pretexto.
-
-## Sección IX. De la reforma de la Constitución
-
-Artículo 182.- En ninguna de las Cámaras del Poder Legislativo será admitida una moción para la reforma de uno o más artículos de la presente Constitución sin que sea apoyada por la cuarta parte de los miembros concurrentes.
-
-Artículo 183.- Siempre que la moción obtenga dicha calidad, discutida en la forma ordinaria, serán necesarias las dos terceras partes de votos en cada una de las salas para sancionarse que el Artículo o los Artículos en cuestión exigen reforma.
-
-Artículo 184.- Esta resolución se comunicará al Poder Ejecutivo para que exponga su opinión fundada y con ella la devuelva a la sala donde tuvo su origen.
-
-Artículo 185.- Si él disiente, reconsiderada la materia en ambas Cámaras, será necesaria la concurrencia de tres cuartas partes al menos de cada una de ellas para sancionar la necesidad de la reforma, y tanto en este caso como en el de consentir el Poder Ejecutivo, se procederá inmediatamente a verificarla con el número de sufragios prescrito en el Artículo 183.
-
-Artículo 186.- Verificada la reforma pasará al Poder Ejecutivo para su publicación o para que exponga los reparos que encontrare. En caso de devolverla, aún con reparos, tres cuartas partes de sufragios en cada sala harán su última sanción.
-
-## Sección última. De la aceptación y observancia de esta Constitución
-
-Artículo 187.- Esta Constitución será presentada al examen y libre aceptación de la capital y provincias por el órgano de las Juntas que en ellas existen de presente o que se formen al efecto.
-
-Artículo 188.- La aceptación de las dos terceras partes de las provincias, inclusa la capital, será suficiente para que se ponga en práctica entre ellas, conservando relaciones de buena inteligencia con las que retarden su consentimiento.
-
-Artículo 189.- Si las provincias quisiesen resignarse en el Juicio del Congreso constituyente, él procederá a aceptarla a nombre de ellas por una declaración especial.
-
-Artículo 190.- En este caso o en el del Artículo anterior se expedirán inmediatamente las órdenes para la formación de ambas Cámaras e instalación de la primera legislatura y para que esta Constitución sea jurada solemnemente en todo el territorio del Estado.
-
-Artículo 191.- Todo el que atentare o prestare medios para atentar contra la presente Constitución después de aceptada será castigado hasta con la pena de muerte, según la gravedad del crimen.
+Artículo 107.- Los gobernadores de provincias son agentes naturales del Gobierno federal para hacer cumplir la Constitución y las leyes de la Confederación.
 
 ---
 
-Diputados por la Capital: José María Rojas. Presidente - Manuel Antonio Castro - Juan José Passo - Pedro Somellera - Joaquín Belgrano -Ildefonso Ramos Mexía - Valentín San Martín - Juan Alagón - Cornelio Zelaya - Miguel Riglos.
-Por el territorio desmembrado de la Capital: Mariano Andrade - Diego Estanislao Zavaleta - Valentín Gómez - Manuel Bonifacio Gallardo - Alejo Castex - José Luis Bustamante - Francisco Piñeyro - Manuel de Arroyo y Pinedo.
-Por la Provincia de Córdoba: Eduardo Pérez Bulnes - Elías Bedoya - Mariano Lozano - Salvador Maldonado - Miguel Villanueva - José Eugenio del Portillo.
-Por la de Corrientes: Francisco Acosta - Pedro Cavia y Caviedes - Francisco Igarzábal - Pedro Feliciano Cavia - José Ocantos.
-Por la de Catamarca: Inocencio González - Miguel Díaz de la Peña - Nicolás de Avellaneda y Tula - José Antonio Barros.
-Por la de Entre Rios: Evaristo Carriegos - Casiano Calderón - Cipriano Urquiza - Enrique Núñez.
-Por la de Mendoza: Pedro Nolasco Videla - Juan de Bargas - José Cabero - Manuel Corbalan.
-Por la de Misiones: Manuel Pinto - Vicente Ignacio Martínez.
-Por la de Montevideo: Manuel Moreno - Mateo Vidal - Silvestre Blanco - Cayetano Campana.
-Por la de La Rioja: Santiago Vázquez - Eusebio Gregorio Ruzo
-Por la de Salta y Jujuy: Juan Ignacio de Gorriti - Francisco Remigio Castellanos - [[Autor:José Ildefonso Arenales|José Arenales]] - Alejandro Heredia - José Miguel Zegada - Manuel de Tezanos Pinto.
-Por la de Santiago del Estero: Félix Ignacio Frías - Vicente Mena - Manuel Dorrego - Antonio María Taboada - José Francisco Ugarteche - Juan Antonio Neirot.
-Por la de Santa Fe: Francisco de la Torre - Pedro Pablo Vidail.
-Por la de San Juan: Narciso Laprida.
-Por la de San Luis: Dalmacio Vélez - Calixto González - Santiago Funes.
-Por la de Tucumán: José Ignacio Garmendia - Gerónimo Helguera - José Antonio Medina - Juan Bautista Paz.
-Por la de Tarija: José Felipe Echazú.
+Dada en la sala de sesiones del Congreso General Constituyente en la Ciudad de Santa Fe, el día 1º de mayo del año del Señor 1853.
 
-Secretarios: Alejo Villegas - Juan C. Varela.
-
-Dada en la Sala de Sesiones del Congreso General Constituyente, en Buenos Aires, a 24 de diciembre de 1826.
+Facundo ZUVIRÍA, presidente y diputado por Salta.
+Pedro ZENTENO, diputado por Catamarca.
+Pedro FERRÉ, diputado por Catamarca.
+Juan DEL CAMPILLO, diputado por Córdoba.
+Santiago DERQUI, diputado por Córdoba.
+Pedro DÍAZ COLODRERO, diputado por Corrientes.
+Luciano TORRENT, diputado por Corrientes.
+Juan María GUTIÉRREZ, diputado por Entre Ríos.
+Manuel PADILLA, diputado por Jujuí.
+José QUINTANA, diputado por Jujuí.
+Martín ZAPATA, diputado por Mendoza.
+Agustín DELGADO, diputado por Mendoza.
+Regis MARTÍNEZ, diputado por la Rioja.
+Salvador María DEL CARRIL, diputado por San Juan.
+Ruperto GODOY, diputado por San Juan.
+Delfín B. HUERGO, diputado por San Luis.
+Juan LLERENA, diputado por San Luis.
+Juan Francisco SEGUÍ, diputado por Santa Fe.
+Manuel LEIVA, diputado por Santa Fe.
+Benjamín J. LAVAISSE, diputado por Santiago del Estero.
+José B. GORONTIAGA, diputado por Santiago del Estero.
+Frai José Manue l PÉREZ, diputado por Tucumán.
+Salustiano ZAVALÍA, diputado por Tucumán.
+José María ZUVIRÍA, secretario.
