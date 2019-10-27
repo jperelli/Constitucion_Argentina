@@ -34,6 +34,12 @@ Artículo 13.- Podrán admitirse nuevas provincias en la Nación; pero no podrá
 
 Artículo 14.- Todos los habitantes de la Nación gozan de los siguientes derechos conforme a las leyes que reglamenten su ejercicio; a saber: de trabajar y ejercer toda industria lícita; de navegar y comerciar; de peticionar a las autoridades; de entrar, permanecer, transitar y salir del territorio argentino; de publicar sus ideas por la prensa sin censura previa; de usar y disponer de su propiedad; de asociarse con fines útiles; de profesar libremente su culto; de enseñar y aprender.
 
+Artículo 14 bis.- El trabajo en sus diversas formas gozará de la protección de las leyes, las que asegurarán al trabajador: condiciones dignas y equitativas de labor; jornada limitada; descanso y vacaciones pagados; retribución justa; salario mínimo vital móvil; igual remuneración por igual tarea; participación en las ganancias de las empresas, con control de la producción y colaboración en la dirección; protección contra el despido arbitrario; estabilidad (empleado público; organización sindical libre y democrática, reconocida por la simple inscripción en un registro especial.
+
+Queda garantizado a los gremios concertar convenios colectivos de trabajo; recurrir a la conciliación y al arbitraje; el derecho de huelga. Los representantes gremiales gozarán de las garantías necesarias para el cumplimiento de su gestión sindical y las relacionadas con la estabilidad de su empleo.
+
+El Estado otorgará los beneficios de la seguridad social, que tendrá carácter de integral e irrenunciable. En especial, la ley establecerá: el seguro obligatorio, que estará a cargo de entidades nacionales o provinciales con autonomía financiera y económica administradas por los interesados con participación del Estado, sin que pueda existir superposición de aportes; jubilaciones y pensiones móviles; la protección integral de la familia; la defensa del bien de familia; la compensación económica familiar y el acceso a una vivienda digna.
+
 Artículo 15.- En la Nación Argentina no hay esclavos: los pocos que hoy existen quedan libres desde la jura de esta Constitución; y una ley especial reglará las indemnizaciones a que dé lugar esta declaración. Todo contrato de compra y venta de personas, es un crimen de que serán responsables los que lo celebrasen, y el escribano o funcionario que lo autorice. Y los esclavos que de cualquier modo se introduzcan quedan libres por el solo hecho de pisar el territorio de la República.
 
 Artículo 16.- La Nación Argentina no admite prerrogativas de sangre, ni de nacimiento: no hay en ella fueros personales ni títulos de nobleza. Todos sus habitantes son iguales ante la ley, y admisibles en los empleos sin otra consideración que la idoneidad. La igualdad es la base del impuesto y de las cargas públicas.
@@ -174,7 +180,7 @@ Artículo 67.- Corresponde al Congreso:
 
 10. Hacer sellar monedas, fijar su valor y. el de las extranjeras; y adoptar un sistema uniforme de pesos y medidas para toda la Nación;
 
-11. Dictar los códigos civil, comercial, penal y de minería, sin que tales códigos alteren las jurisdicciones locales, correspondiendo su aplicación a los tribunales federales o provinciales, según que las cosas o las personas cayeren bajo sus respectivas jurisdicciones; y especialmente leyes generales para toda la Nación sobre ciudadanía y naturalización, con sujeción al principio de la ciudadanía natural, sobre bancarrotas, sobre falsificación de la moneda corriente y documentos públicos del Estado, y las que requiera el establecimiento del juicio por jurados;
+11. Dictar los códigos civil, comercial, penal de minería, y del trabajo y seguridad social, sin que tales códigos alteren las jurisdicciones locales, correspondiendo su aplicación a los tribunales federales o provinciales, según que las cosas o las personas cayeren bajo sus respectivas jurisdicciones; y especialmente leyes generales para toda la Nación sobre ciudadanía y naturalización, con sujeción al principio de la ciudadanía natural, sobre bancarrotas, sobre falsificación de la moneda corriente y documentos públicos del Estado, y las que requiera el establecimiento del juicio por jurados;
 
 12. Reglar el comercio marítimo y terrestre con las naciones extranjeras y de las provincias entre sí;
 
