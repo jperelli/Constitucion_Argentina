@@ -2,6 +2,7 @@
 
 - [Acta para la Reorganización Nacional](acta_reorganizacion.md)
 - [Acta fijando el Propósito y los Objetivos Básicos del Proceso de Reorganización Nacional](acta_proposito.md)
+- [Reglamento para el funcionamiento de la Junta Militar, Poder Ejecutivo y Comisión de Asesoramiento Legislativo](reglamento.md)
 
 
 # CONSTITUCION NACIONAL
